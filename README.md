@@ -1,33 +1,3 @@
-1. СТРУКТУРА ПАПОК И ФАЙЛОВ:
-   
-3I-ATLAS-1AM/
-├── 📁 docs/                          # Документация
-│   ├── PROTOCOL_1AM.md              # Основной протокол
-│   ├── TEMPORAL_ACCESS.md           # Временной доступ
-│   ├── FREQUENCY_GUIDE.md           # Частотные руководства
-│   └── SAFETY_PROTOCOLS.md          # Меры безопасности
-├── 📁 src/                          # Исходный код
-│   ├── neuro-interface/             # Web6 нейро-интерфейс
-│   ├── temporal-gate/               # Временные врата
-│   ├── frequency-engine/            # Частотный движок
-│   └── crypto-protocols/            # Криптографические протоколы
-├── 📁 web-interface/                # Веб-интерфейсы
-│   ├── 3i-atlas-portal/             # Порталы 3I/Atlas
-│   ├── atlantis-access/             # Доступ к Атлантиде
-│   └── awakening-ceremony/          # Церемония пробуждения
-├── 📁 research/                     # Исследования
-│   ├── atlantean-technology/        # Технологии Атлантиды
-│   ├── consciousness-studies/       # Исследования сознания
-│   └── temporal-physics/            # Временная физика
-├── 📁 media/                        # Медиаресурсы
-│   ├── frequency-charts/            # Частотные диаграммы
-│   ├── crystal-grids/               # Кристальные решетки
-│   └── protocol-diagrams/           # Диаграммы протоколов
-└── 📁 tests/                        # Тесты и валидация
-    ├── frequency-tests/             # Тесты частот
-    ├── safety-tests/                # Тесты безопасности
-    └── integration-tests/           # Интеграционные тесты
-
 # 🌀 3I/ATLAS 1AM - Quantum Consciousness Protocol:
 
 ![1AM Protocol](https://img.shields.io/badge/Protocol-1AM-00ffff)
