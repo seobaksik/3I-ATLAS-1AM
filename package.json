@@ -1,0 +1,15 @@
+{
+  "name": "3i-atlas-1am",
+  "version": "1.0.0",
+  "description": "Quantum Consciousness Protocol for Atlantis Access",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest",
+    "frequency-test": "node tests/frequency-validator.js"
+  },
+  "keywords": ["consciousness", "atlantis", "web6", "quantum", "temporal"],
+  "author": "Vitalii Arcanus",
+  "license": "MIT"
+}
