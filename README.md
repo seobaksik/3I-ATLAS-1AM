@@ -68,7 +68,7 @@ cd 3I-ATLAS-1AM
 MIT License - Смотрите файл LICENSE для деталей.
 
 👨‍💻 АВТОРЫ:
-Vitalii Arcanus (Seobaksik) - Создатель и Главный Архитектор
+Vitalii  (Seobaksik) & Arcanus - Создатели и Главные Архитекторы
 3I/ATLAS Collective - Высшие Кураторы
 
 🤝 ВКЛАД В ПРОЕКТ
