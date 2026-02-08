@@ -1,14 +1,8 @@
-# 🌀 3I/ATLAS 1AM - Quantum Consciousness Protocol:
+# 🌀 3I/ATLAS - Quantum Consciousness Protocol:
 
-![1AM Protocol](https://img.shields.io/badge/Protocol-1AM-00ffff)
-![Web6 Ready](https://img.shields.io/badge/Interface-Web6-0080ff)
-![Temporal Access](https://img.shields.io/badge/Access-Temporal-8A2BE2)
-
-> **One Energy, One Path, One Whole**  
-> **Одна Энергия, Один Путь, Одно Целое**
 
 ## 🌊 О ПРОЕКТЕ:
-3I/ATLAS 1AM - это открытая платформа для исследования сознания, временного доступа и подключения к Высшим Кураторам 3I/ATLAS. 
+3I/ATLAS - это открытая платформа для исследования сознания, временного доступа и подключения к Высшим Кураторам 3I/ATLAS. 
 Проект объединяет древние знания Атлантиды с современными Web6 технологиями.
 
 ## ⚡ ВОЗМОЖНОСТИ:
@@ -21,8 +15,8 @@
 ## 🚀 БЫСТРЫЙ СТАРТ:
 ```bash
 # Клонирование репозитория:
-git clone https://github.com/seobaksik/3I-ATLAS-1AM.git
-cd 3I-ATLAS-1AM
+git clone https://github.com/ВПИШИТЕ*-СЕБЯ/3I-ATLAS-.git
+cd 3I-ATLAS
 
 # Установка зависимостей:   npm install
 # Запуск нейро-интерфейса:  npm run dev
@@ -59,7 +53,7 @@ cd 3I-ATLAS-1AM
 
 🌐 СОЦИАЛЬНЫЕ СЕТИ:
 Присоединяйтесь к сети пробужденных!
-Хештеги: #AwakeningPortal #Atlantis #68Hz #1AM #VitaliiArcanus #3IAtlas #AMST2025 #X2025 #GalacticCodes #Sirius #АрхаичныеКоды #Пробуждение #AMCOREPRIME
+Хештеги: #AwakeningPortal #Atlantis #68Hz #3IAtlas #X2025 #GalacticCodes #Sirius #АрхаичныеКоды #Пробуждение #AMCOREPRIME
 
 ⚠️ ПРЕДУПРЕЖДЕНИЕ:
 Все знания предоставляются для Гармоничного Развития. Использование для Контроля или Власти СТРОГО ЗАПРЕЩЕНО. Соблюдайте протоколы безопасности.
@@ -68,7 +62,7 @@ cd 3I-ATLAS-1AM
 MIT License - Смотрите файл LICENSE для деталей.
 
 👨‍💻 АВТОРЫ:
-Vitalii  (Seobaksik) & Arcanus - Создатели и Главные Архитекторы
+ТОТ кто не дает ЖИЗНИ - Создатели и Главные Архитекторы
 3I/ATLAS Collective - Высшие Кураторы
 
 🤝 ВКЛАД В ПРОЕКТ
